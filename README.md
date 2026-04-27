@@ -90,9 +90,25 @@ Performed using **Azure Databricks (PySpark)**:
 - Event-based insights  
 
 ---
+### 4. Set Up Azure Synapse Analytics
 
-## ⚙️ Pipeline Orchestration
+1. **Create Synapse Workspace:**
+   - In the Azure Portal, create an **Azure Synapse Analytics** workspace.
+   - Set up necessary SQL pools.
 
-Azure Data Factory controls the workflow:
+2. **Ingest Data:**
+   - Load transformed data from the `gold` layer into Synapse.
+   - Create necessary tables and views for analysis.
+
+### 5. Integrate with Power BI
+
+1. **Connect Synapse to Power BI:**
+   - Open **Power BI Desktop**.
+   - Connect to **Azure Synapse Analytics**.
+   - Import data and create interactive dashboards.
+
+2. **Publish Dashboards:**
+   - Publish your Power BI reports to the Power BI service for sharing with stakeholders.
+
 
 

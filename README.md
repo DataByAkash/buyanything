@@ -30,7 +30,7 @@ However, GitHub API data is:
 
 ## 🏗️ Architecture Diagram
 
-<img width="635" height="257" alt="image" src="https://github.com/user-attachments/assets/e51aeae0-b607-49a1-bdb2-7cc6b91f3896" />
+<img width="850" height="350" alt="image" src="https://github.com/user-attachments/assets/e51aeae0-b607-49a1-bdb2-7cc6b91f3896" />
 
 
 
